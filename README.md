@@ -1,5 +1,5 @@
 # RetroLab-Components
 
-https://retrolab-components.netlify.app/header/
-https://retrolab-components.netlify.app/card/
-https://retrolab-components.netlify.app/footer/
+header: https://retrolab-components.netlify.app/header/
+Card: https://retrolab-components.netlify.app/card/
+Footer: https://retrolab-components.netlify.app/footer/
